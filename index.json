@@ -6,8 +6,68 @@
       "file": "jingles/Army-Men-3D.mp3"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Auto Destruct",
+      "file": "jingles/Auto-Destruct.mp3"
+    },
+    {
+      "game": "Dave Mirra Freestyle BMX",
+      "file": "jingles/Dave-Mirra-Freestyle-BMX.mp3"
+    },
+    {
+      "game": "Driver 2",
+      "file": "jingles/Driver-2.mp3"
+    },
+    {
+      "game": "Frogger",
+      "file": "jingles/Frogger.mp3"
+    },
+    {
+      "game": "Gran Turismo 2",
+      "file": "jingles/Gran-Turismo-2.mp3"
+    },
+    {
+      "game": "MLB 2004",
+      "file": "jingles/MLB-2004.mp3"
+    },
+    {
+      "game": "NBA Live '98",
+      "file": "jingles/NBA-Live-98.mp3"
+    },
+    {
+      "game": "Need For Speed 3: Hot Pursuit",
+      "file": "jingles/Need-For-Speed-3-Hot-Pursuit.mp3"
+    },
+    {
+      "game": "Razor Racing",
+      "file": "jingles/Razor-Racing.mp3"
+    },
+    {
+      "game": "Rocket Power - Team Rocket Rescue",
+      "file": "jingles/Rocket -ower.mp3"
+    },
+    {
+      "game": "Rugrats",
+      "file": "jingles/Rugrats.mp3"
+    },
+    {
+      "game": "Sim Theme Park",
+      "file": "jingles/Sim-Theme-Park.mp3"
+    },
+    {
+      "game": "Soul Blade",
+      "file": "jingles/Soul-Blade.mp3"
+    },
+    {
+      "game": "Syphon Filter",
+      "file": "jingles/Syphon-Filter.mp3"
+    },
+    {
+      "game": "Tony Hawk's Pro Skater 2",
+      "file": "jingles/Tony-Hawks-Pro-Skater-2.mp3"
+    },
+    {
+      "game": "WCW Backstage Assault",
+      "file": "jingles/WCW-Backstage-Assault.mp3"
     }
   ]
 }
