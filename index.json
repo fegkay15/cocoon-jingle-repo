@@ -76,6 +76,38 @@
     {
       "game": "Millipede",
       "file": "jingles/Millipede.mp3"
+    },
+    {
+      "game": "Assassin's Creed Altair Chronicles",
+      "file": "jingles/Assassin's Creed Altair Chronicles.mp3"
+    },
+    {
+      "game": "Big Brain Academy",
+      "file": "jingles/Big Brain Academy.mp3"
+    },
+    {
+      "game": "Bowser Inside Story",
+      "file": "jingles/Bowser Inside Story.mp3"
+    },
+    {
+      "game": "Brain Age",
+      "file": "jingles/Brain Age.mp3"
+    },
+    {
+      "game": "Call of Duty 4 Modern Warfare",
+      "file": "jingles/Call of Duty 4 Modern Warfare.mp3"
+    },
+    {
+      "game": "Ping Pals",
+      "file": "jingles/Ping Pals.mp3"
+    },
+    {
+      "game": "Super Monkey Ball Touch and Roll",
+      "file": "jingles/Super Monkey Ball Touch and Roll.mp3"
+    },
+    {
+      "game": "Transformers Autobots",
+      "file": "jingles/Transformers Autobots.mp3"
     }
   ]
 }
