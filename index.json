@@ -108,6 +108,22 @@
     {
       "game": "Transformers Autobots",
       "file": "jingles/Transformers Autobots.mp3"
+    },
+    {
+      "game": "Bratz Rock Angelz",
+      "file": "jingles/Bratz Rock Angelz.mp3"
+    },
+    {
+      "game": "Namco Museum",
+      "file": "jingles/Namco Museum.mp3"
+    },
+    {
+      "game": "Quad Desert Fury",
+      "file": "jingles/Quad Desert Fury.mp3"
+    },
+    {
+      "game": "The Legend of Zelda Links Awakening DX",
+      "file": "jingles/The Legend of Zelda Links Awakening DX.mp3"
     }
   ]
 }
