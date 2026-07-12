@@ -68,6 +68,14 @@
     {
       "game": "WCW Backstage Assault",
       "file": "jingles/WCW-Backstage-Assault.mp3"
+    },
+    {
+      "game": "Duck Hunt",
+      "file": "jingles/Duck Hunt.mp3"
+    },
+    {
+      "game": "Millipede",
+      "file": "jingles/Millipede.mp3"
     }
   ]
 }
